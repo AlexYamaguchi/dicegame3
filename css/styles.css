@@ -1,0 +1,38 @@
+h1 {
+  font-size: 60px;
+  font-style: oblique;
+}
+
+h2 {
+  font-size: 110px;
+  font-style: oblique;
+}
+
+.button {
+  background-color: #4CAF50;
+  /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.img1 {
+  height: 400px;
+  width: 400px;
+  margin-left: auto;
+}
+
+.img2 {
+  height: 400px;
+  width: 400px;
+  margin-left: auto;
+}
+
+body {
+  background-color: lightgreen;
+  font-size: 30px;
+}
