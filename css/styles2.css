@@ -1,10 +1,15 @@
 h1 {
-  font-size: 160px;
+  font-size: 60px;
   font-style: oblique;
 }
 
 h2 {
   font-size: 110px;
+  font-style: oblique;
+}
+
+h3 {
+  font-size: 200px;
   font-style: oblique;
 }
 

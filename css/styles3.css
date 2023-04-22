@@ -8,6 +8,11 @@ h2 {
   font-style: oblique;
 }
 
+h3 {
+  font-size: 200px;
+  font-style: oblique;
+}
+
 .button {
   background-color: #3d46c0ec;
   /* Green */
